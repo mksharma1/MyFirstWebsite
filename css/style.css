@@ -1,0 +1,13 @@
+#firsttable
+{
+	font-size: 2em;
+	padding: 10px;
+	margin-top: 100px;
+	color: white;
+	border-radius: 10px;
+	border-color: white;
+}
+body
+{
+	background-color: black;
+}
